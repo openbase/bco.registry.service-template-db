@@ -1,4 +1,6 @@
 {
   "id": "910dde42-47c4-4d99-91ea-e50aa51ae999",
-  "type": "EARTHQUAKE_ALARM_STATE_SERVICE"
+  "type": "EARTHQUAKE_ALARM_STATE_SERVICE",
+  "communication_type": "ALARM_STATE",
+  "meta_config": {}
 }

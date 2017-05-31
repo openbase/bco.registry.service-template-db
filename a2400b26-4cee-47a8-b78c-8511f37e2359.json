@@ -1,4 +1,6 @@
 {
   "id": "a2400b26-4cee-47a8-b78c-8511f37e2359",
-  "type": "PASSAGE_STATE_SERVICE"
+  "type": "PASSAGE_STATE_SERVICE",
+  "communication_type": "PASSAGE_STATE",
+  "meta_config": {}
 }

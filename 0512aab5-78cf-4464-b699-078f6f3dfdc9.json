@@ -1,4 +1,6 @@
 {
   "id": "0512aab5-78cf-4464-b699-078f6f3dfdc9",
-  "type": "TEMPERATURE_STATE_SERVICE"
+  "type": "TEMPERATURE_STATE_SERVICE",
+  "communication_type": "TEMPERATURE_STATE",
+  "meta_config": {}
 }

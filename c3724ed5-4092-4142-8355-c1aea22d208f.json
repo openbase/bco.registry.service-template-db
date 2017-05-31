@@ -1,4 +1,6 @@
 {
   "id": "c3724ed5-4092-4142-8355-c1aea22d208f",
-  "type": "POWER_STATE_SERVICE"
+  "type": "POWER_STATE_SERVICE",
+  "communication_type": "POWER_STATE",
+  "meta_config": {}
 }

@@ -1,4 +1,6 @@
 {
   "id": "f36cd89a-a3c6-4ca9-9bb0-972ab5ed4cec",
-  "type": "STANDBY_STATE_SERVICE"
+  "type": "STANDBY_STATE_SERVICE",
+  "communication_type": "STANDBY_STATE",
+  "meta_config": {}
 }

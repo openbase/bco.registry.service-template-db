@@ -1,4 +1,6 @@
 {
   "id": "35f4375a-2ed2-4df2-bcf1-ebc090ca07f9",
-  "type": "BRIGHTNESS_STATE_SERVICE"
+  "type": "BRIGHTNESS_STATE_SERVICE",
+  "communication_type": "BRIGHTNESS_STATE",
+  "meta_config": {}
 }

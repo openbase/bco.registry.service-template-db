@@ -1,4 +1,6 @@
 {
   "id": "0f9527d7-d6f8-4a09-af14-1a8d91c264bd",
-  "type": "COLOR_STATE_SERVICE"
+  "type": "COLOR_STATE_SERVICE",
+  "communication_type": "COLOR_STATE",
+  "meta_config": {}
 }

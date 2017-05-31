@@ -1,4 +1,6 @@
 {
   "id": "c82ea1b6-2641-4d29-9699-67d497952d4f",
-  "type": "FIRE_ALARM_STATE_SERVICE"
+  "type": "FIRE_ALARM_STATE_SERVICE",
+  "communication_type": "ALARM_STATE",
+  "meta_config": {}
 }

@@ -1,4 +1,6 @@
 {
   "id": "cf6dbca4-a12b-4eea-b842-dff75a53c68c",
-  "type": "TAMPER_STATE_SERVICE"
+  "type": "TAMPER_STATE_SERVICE",
+  "communication_type": "TAMPER_STATE",
+  "meta_config": {}
 }

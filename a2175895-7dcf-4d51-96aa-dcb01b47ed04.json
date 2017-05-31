@@ -1,4 +1,6 @@
 {
   "id": "a2175895-7dcf-4d51-96aa-dcb01b47ed04",
-  "type": "BLIND_STATE_SERVICE"
+  "type": "BLIND_STATE_SERVICE",
+  "communication_type": "BLIND_STATE",
+  "meta_config": {}
 }

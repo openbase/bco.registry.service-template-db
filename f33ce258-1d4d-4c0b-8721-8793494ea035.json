@@ -1,4 +1,6 @@
 {
   "id": "f33ce258-1d4d-4c0b-8721-8793494ea035",
-  "type": "SMOKE_ALARM_STATE_SERVICE"
+  "type": "SMOKE_ALARM_STATE_SERVICE",
+  "communication_type": "ALARM_STATE",
+  "meta_config": {}
 }
