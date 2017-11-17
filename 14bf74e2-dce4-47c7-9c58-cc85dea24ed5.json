@@ -1,4 +1,6 @@
 {
   "id": "14bf74e2-dce4-47c7-9c58-cc85dea24ed5",
-  "type": "USER_ACTIVITY_STATE_SERVICE"
+  "type": "USER_ACTIVITY_STATE_SERVICE",
+  "communication_type": "USER_ACTIVITY_STATE",
+  "meta_config": {}
 }
