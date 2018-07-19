@@ -1,5 +1,15 @@
 {
   "id": "ce7fedbe-e6b1-41ae-993e-e07acfa58344",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Smoke State Service"
+        ]
+      }
+    ]
+  },
   "type": "SMOKE_STATE_SERVICE",
   "communication_type": "SMOKE_STATE",
   "meta_config": {}

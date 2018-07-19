@@ -1,5 +1,15 @@
 {
   "id": "e0361cfd-f322-4d1b-8485-1d3c3022d15f",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Water Alarm State Service"
+        ]
+      }
+    ]
+  },
   "type": "WATER_ALARM_STATE_SERVICE",
   "communication_type": "ALARM_STATE",
   "meta_config": {}

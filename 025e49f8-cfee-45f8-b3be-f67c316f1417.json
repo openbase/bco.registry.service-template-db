@@ -1,5 +1,15 @@
 {
   "id": "025e49f8-cfee-45f8-b3be-f67c316f1417",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Intrusion Alarm State Service"
+        ]
+      }
+    ]
+  },
   "type": "INTRUSION_ALARM_STATE_SERVICE",
   "communication_type": "ALARM_STATE",
   "meta_config": {}

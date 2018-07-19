@@ -1,5 +1,15 @@
 {
   "id": "7a3eaa02-2d76-4c93-9c66-4da45ea7bafa",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Contact State Service"
+        ]
+      }
+    ]
+  },
   "type": "CONTACT_STATE_SERVICE",
   "communication_type": "CONTACT_STATE",
   "meta_config": {}

@@ -1,5 +1,15 @@
 {
   "id": "d1dd033f-9dae-46fb-9355-a32b0b898db7",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Battery State Service"
+        ]
+      }
+    ]
+  },
   "type": "BATTERY_STATE_SERVICE",
   "communication_type": "BATTERY_STATE",
   "meta_config": {}

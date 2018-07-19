@@ -1,4 +1,14 @@
 {
   "id": "14bf74e2-dce4-47c7-9c58-cc85dea24ed5",
-  "type": "USER_ACTIVITY_STATE_SERVICE"
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Activity Multi State Service"
+        ]
+      }
+    ]
+  },
+  "type": "ACTIVITY_MULTI_STATE_SERVICE"
 }

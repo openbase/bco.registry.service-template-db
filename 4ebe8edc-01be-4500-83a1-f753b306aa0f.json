@@ -1,5 +1,15 @@
 {
   "id": "4ebe8edc-01be-4500-83a1-f753b306aa0f",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Motion State Service"
+        ]
+      }
+    ]
+  },
   "type": "MOTION_STATE_SERVICE",
   "communication_type": "MOTION_STATE",
   "meta_config": {}

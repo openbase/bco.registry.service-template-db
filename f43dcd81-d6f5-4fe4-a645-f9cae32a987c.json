@@ -1,5 +1,15 @@
 {
   "id": "f43dcd81-d6f5-4fe4-a645-f9cae32a987c",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Medical Emergency Alarm State Service"
+        ]
+      }
+    ]
+  },
   "type": "MEDICAL_EMERGENCY_ALARM_STATE_SERVICE",
   "communication_type": "ALARM_STATE",
   "meta_config": {}

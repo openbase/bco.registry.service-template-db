@@ -1,5 +1,15 @@
 {
   "id": "355916ac-6a3e-45c3-878c-ef5786ccb223",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Window State Service"
+        ]
+      }
+    ]
+  },
   "type": "WINDOW_STATE_SERVICE",
   "communication_type": "WINDOW_STATE",
   "meta_config": {}

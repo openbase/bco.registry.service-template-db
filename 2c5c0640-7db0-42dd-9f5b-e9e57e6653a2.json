@@ -1,5 +1,15 @@
 {
   "id": "2c5c0640-7db0-42dd-9f5b-e9e57e6653a2",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Rfid State Service"
+        ]
+      }
+    ]
+  },
   "type": "RFID_STATE_SERVICE",
   "communication_type": "RFID_STATE",
   "meta_config": {}

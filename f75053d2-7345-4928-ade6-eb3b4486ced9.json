@@ -1,5 +1,15 @@
 {
   "id": "f75053d2-7345-4928-ade6-eb3b4486ced9",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Activation State Service"
+        ]
+      }
+    ]
+  },
   "type": "ACTIVATION_STATE_SERVICE",
   "communication_type": "ACTIVATION_STATE",
   "meta_config": {}

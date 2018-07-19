@@ -1,5 +1,15 @@
 {
   "id": "4fb802b8-b656-4210-b2e3-7e1c0123a0a6",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Switch State Service"
+        ]
+      }
+    ]
+  },
   "type": "SWITCH_STATE_SERVICE",
   "communication_type": "SWITCH_STATE",
   "meta_config": {}

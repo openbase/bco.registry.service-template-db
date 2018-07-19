@@ -1,5 +1,15 @@
 {
   "id": "02342f5f-357c-4636-8f52-3eefcb65d060",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Illuminance State Service"
+        ]
+      }
+    ]
+  },
   "type": "ILLUMINANCE_STATE_SERVICE",
   "communication_type": "ILLUMINANCE_STATE",
   "meta_config": {}

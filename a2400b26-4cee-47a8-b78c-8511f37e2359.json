@@ -1,5 +1,15 @@
 {
   "id": "a2400b26-4cee-47a8-b78c-8511f37e2359",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Passage State Service"
+        ]
+      }
+    ]
+  },
   "type": "PASSAGE_STATE_SERVICE",
   "communication_type": "PASSAGE_STATE",
   "meta_config": {}

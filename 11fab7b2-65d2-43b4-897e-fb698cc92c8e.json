@@ -1,4 +1,14 @@
 {
   "id": "11fab7b2-65d2-43b4-897e-fb698cc92c8e",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Emphasis State Service"
+        ]
+      }
+    ]
+  },
   "type": "EMPHASIS_STATE_SERVICE"
 }

@@ -1,5 +1,15 @@
 {
   "id": "78c0d99c-d032-4255-a57b-3db5fd4d6f3d",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Handle State Service"
+        ]
+      }
+    ]
+  },
   "type": "HANDLE_STATE_SERVICE",
   "communication_type": "HANDLE_STATE",
   "meta_config": {}

@@ -1,5 +1,15 @@
 {
   "id": "eb544f83-26c3-45f6-93da-5b9599de6049",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Door State Service"
+        ]
+      }
+    ]
+  },
   "type": "DOOR_STATE_SERVICE",
   "communication_type": "DOOR_STATE",
   "meta_config": {}
