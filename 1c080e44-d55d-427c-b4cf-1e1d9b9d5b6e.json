@@ -1,0 +1,14 @@
+{
+  "id": "1c080e44-d55d-427c-b4cf-1e1d9b9d5b6e",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Global Position State Service"
+        ]
+      }
+    ]
+  },
+  "type": "GLOBAL_POSITION_STATE_SERVICE"
+}

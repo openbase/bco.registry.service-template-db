@@ -1,0 +1,14 @@
+{
+  "id": "3c3a88bf-d21f-44de-9bb4-597909607846",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Local Position State Service"
+        ]
+      }
+    ]
+  },
+  "type": "LOCAL_POSITION_STATE_SERVICE"
+}
