@@ -10,5 +10,6 @@
       }
     ]
   },
-  "type": "ACTIVITY_MULTI_STATE_SERVICE"
+  "type": "ACTIVITY_MULTI_STATE_SERVICE",
+  "meta_config": {}
 }

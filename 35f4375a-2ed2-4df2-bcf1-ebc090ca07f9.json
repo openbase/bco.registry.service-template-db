@@ -12,5 +12,12 @@
   },
   "type": "BRIGHTNESS_STATE_SERVICE",
   "communication_type": "BRIGHTNESS_STATE",
-  "meta_config": {}
+  "meta_config": {
+    "entry": [
+      {
+        "key": "COMMAND_CLASSES",
+        "value": "PercentType"
+      }
+    ]
+  }
 }

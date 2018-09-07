@@ -12,5 +12,12 @@
   },
   "type": "BATTERY_STATE_SERVICE",
   "communication_type": "BATTERY_STATE",
-  "meta_config": {}
+  "meta_config": {
+    "entry": [
+      {
+        "key": "COMMAND_CLASSES",
+        "value": "DecimalType"
+      }
+    ]
+  }
 }
