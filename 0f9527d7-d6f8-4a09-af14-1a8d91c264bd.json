@@ -11,6 +11,9 @@
     ]
   },
   "type": "COLOR_STATE_SERVICE",
+  "super_type": [
+    "BRIGHTNESS_STATE_SERVICE"
+  ],
   "communication_type": "COLOR_STATE",
   "meta_config": {
     "entry": [
