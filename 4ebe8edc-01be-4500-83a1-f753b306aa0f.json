@@ -16,7 +16,7 @@
     "entry": [
       {
         "key": "COMMAND_CLASSES",
-        "value": "DecimalType"
+        "value": "OnOffType"
       }
     ]
   }
