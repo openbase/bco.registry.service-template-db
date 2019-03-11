@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "LOCAL_POSITION_STATE_SERVICE",
+  "service_type": "LOCAL_POSITION_STATE_SERVICE",
   "communication_type": "LOCAL_POSITION_STATE",
   "meta_config": {}
 }

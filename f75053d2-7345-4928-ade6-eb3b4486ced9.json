@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "ACTIVATION_STATE_SERVICE",
+  "service_type": "ACTIVATION_STATE_SERVICE",
   "communication_type": "ACTIVATION_STATE",
   "meta_config": {
     "entry": [

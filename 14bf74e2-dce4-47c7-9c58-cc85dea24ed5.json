@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "ACTIVITY_MULTI_STATE_SERVICE",
+  "service_type": "ACTIVITY_MULTI_STATE_SERVICE",
   "communication_type": "ACTIVITY_MULTI_STATE",
   "meta_config": {}
 }

@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "GLOBAL_POSITION_STATE_SERVICE",
+  "service_type": "GLOBAL_POSITION_STATE_SERVICE",
   "communication_type": "GLOBAL_POSITION_STATE",
   "meta_config": {}
 }

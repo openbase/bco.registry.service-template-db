@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "BRIGHTNESS_STATE_SERVICE",
+  "service_type": "BRIGHTNESS_STATE_SERVICE",
   "super_type": [
     "POWER_STATE_SERVICE"
   ],

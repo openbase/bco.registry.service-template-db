@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "PRESENCE_STATE_SERVICE",
+  "service_type": "PRESENCE_STATE_SERVICE",
   "communication_type": "PRESENCE_STATE",
   "meta_config": {
     "entry": [

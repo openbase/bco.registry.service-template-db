@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "TEMPERATURE_STATE_SERVICE",
+  "service_type": "TEMPERATURE_STATE_SERVICE",
   "communication_type": "TEMPERATURE_STATE",
   "meta_config": {
     "entry": [

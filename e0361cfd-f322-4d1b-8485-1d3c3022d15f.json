@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "WATER_ALARM_STATE_SERVICE",
+  "service_type": "WATER_ALARM_STATE_SERVICE",
   "communication_type": "ALARM_STATE",
   "meta_config": {}
 }

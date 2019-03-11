@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "SWITCH_STATE_SERVICE",
+  "service_type": "SWITCH_STATE_SERVICE",
   "communication_type": "SWITCH_STATE",
   "meta_config": {}
 }

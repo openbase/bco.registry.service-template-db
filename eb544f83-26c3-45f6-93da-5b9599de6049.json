@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "DOOR_STATE_SERVICE",
+  "service_type": "DOOR_STATE_SERVICE",
   "communication_type": "DOOR_STATE",
   "meta_config": {}
 }

@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "COLOR_STATE_SERVICE",
+  "service_type": "COLOR_STATE_SERVICE",
   "super_type": [
     "BRIGHTNESS_STATE_SERVICE"
   ],

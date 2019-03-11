@@ -10,7 +10,7 @@
       }
     ]
   },
-  "type": "USER_TRANSIT_STATE_SERVICE",
+  "service_type": "USER_TRANSIT_STATE_SERVICE",
   "communication_type": "USER_TRANSIT_STATE",
   "meta_config": {}
 }
