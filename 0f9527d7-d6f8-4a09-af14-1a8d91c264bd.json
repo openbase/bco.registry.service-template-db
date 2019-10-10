@@ -19,7 +19,7 @@
     "entry": [
       {
         "key": "COMMAND_CLASSES",
-        "value": "HSBType"
+        "value": "HSBType, PercentType, OnOffType"
       }
     ]
   }
