@@ -5,12 +5,12 @@
       {
         "key": "en",
         "value": [
-          "Rfid State Service"
+          "RFID State Service"
         ]
       }
     ]
   },
-  "service_type": "RFID_STATE_SERVICE",
-  "communication_type": "RFID_STATE",
+  "service_type": "R_F_I_D_STATE_SERVICE",
+  "communication_type": "R_F_I_D_STATE",
   "meta_config": {}
 }
