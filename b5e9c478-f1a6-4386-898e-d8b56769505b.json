@@ -1,0 +1,23 @@
+{
+  "id": "b5e9c478-f1a6-4386-898e-d8b56769505b",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Discovery State Service"
+        ]
+      }
+    ]
+  },
+  "service_type": "DISCOVERY_STATE_SERVICE",
+  "communication_type": "ACTIVATION_STATE",
+  "meta_config": {
+    "entry": [
+      {
+        "key": "COMMAND_CLASSES",
+        "value": "OnOffType"
+      }
+    ]
+  }
+}
