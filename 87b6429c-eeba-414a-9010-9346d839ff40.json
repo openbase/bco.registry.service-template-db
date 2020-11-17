@@ -1,0 +1,14 @@
+{
+  "id": "87b6429c-eeba-414a-9010-9346d839ff40",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Availability State Service"
+        ]
+      }
+    ]
+  },
+  "service_type": "AVAILABILITY_STATE_SERVICE"
+}
