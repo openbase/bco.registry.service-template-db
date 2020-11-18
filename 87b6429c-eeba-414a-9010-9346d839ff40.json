@@ -10,5 +10,7 @@
       }
     ]
   },
-  "service_type": "AVAILABILITY_STATE_SERVICE"
+  "service_type": "AVAILABILITY_STATE_SERVICE",
+  "communication_type": "AVAILABILITY_STATE",
+  "meta_config": {}
 }
