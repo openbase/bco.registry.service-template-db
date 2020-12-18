@@ -12,5 +12,12 @@
   },
   "service_type": "MEDICAL_EMERGENCY_ALARM_STATE_SERVICE",
   "communication_type": "ALARM_STATE",
-  "meta_config": {}
+  "meta_config": {
+    "entry": [
+      {
+        "key": "COMMAND_CLASSES",
+        "value": "OnOffType"
+      }
+    ]
+  }
 }
